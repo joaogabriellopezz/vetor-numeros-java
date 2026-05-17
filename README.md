@@ -8,7 +8,7 @@ O programa recebe 5 números inteiros do usuário através de caixas de diálogo
 
 1. Certifique-se de ter o JDK instalado na máquina.
 2. Abra o projeto na sua IDE (Eclipse, VS Code ou IntelliJ).
-3. Execute a classe `Main.java`.
+3. Execute a classe `ClassePrincipal.java`.
 4. Digite um número inteiro em cada uma das 5 caixas de entrada que aparecerem.
 
 ## Exemplo de entrada e saída
